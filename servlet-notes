@@ -1,0 +1,13 @@
+q.1 What is servlet?
+-> A servlet is a server side programming language that recieves the request from the web- browser, process them and send back the response.
+
+q.2 what is welcome file list?
+->It is used to show the default page when a web application is opened.
+
+    <welcome-file-list>
+        <welcome-file>index.jsp</welcome-file>
+    </welcome-file-list>
+
+
+q.3 Requst Dispather?
+->It is responsible for dispatching the request to another resource, it may be html, servlet or jsp.
