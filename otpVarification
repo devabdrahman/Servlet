@@ -1,0 +1,10 @@
+steps to create
+1.first show what we are going to create
+2.create the forgot password link on login.jsp
+3.create the forgot password.jsp page(change the package name, email and password accordingly also do one gmail settting)
+4.create servlet of forgotPassword.java
+5.add the two reqires jars
+6.create enterOTP.jsp page
+7.create validateOtp.java page
+8.create newPassword.jsp page
+9.create newPassword.java servlet
